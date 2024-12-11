@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignore build output (e.g., dist folder)
-dist/
+# dist/
 
 # Ignore editor-specific files
 *.code-workspace
@@ -10,3 +10,6 @@ dist/
 # Ignore operating system-specific files
 .DS_Store
 Thumbs.db
+
+1.png
+2.png
