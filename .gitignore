@@ -1,0 +1,12 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build output (e.g., dist folder)
+dist/
+
+# Ignore editor-specific files
+*.code-workspace
+
+# Ignore operating system-specific files
+.DS_Store
+Thumbs.db
